@@ -11,7 +11,8 @@ import SwiftUI
 struct ColorPlayApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            SplashView() // Começa com o Splash
         }
     }
 }
